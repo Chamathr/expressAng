@@ -14,6 +14,4 @@ const ConnectDB = async (req, res) => {
     }
 }
 
-// DbConnect().catch(console.error);
-
 module.exports = ConnectDB;
